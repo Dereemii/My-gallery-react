@@ -11,6 +11,7 @@ function App() {
         <SearchBar />
         <section>
           <Card />
+          <Card />
         </section>
       </main>
     </>
